@@ -1,0 +1,18 @@
+body {
+    background-color: aquamarine;
+}
+.yep {
+    background-color: blue;
+    padding-right: 10px;
+}
+.yaq {
+    background-color: rgb(0, 0, 0);
+}
+.col {
+    background-color: brown;
+    height: 20px;
+}
+.san {
+    background-color: blueviolet;
+    height: 20px;
+}
